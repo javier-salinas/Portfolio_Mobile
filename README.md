@@ -30,7 +30,7 @@
 
 > Portfolio Mobile - Project Day 3
 
-**[Portfolio_Mobile]** First steps in the Portfolio Mobile Project
+**[Portfolio_Mobile]** Finish version of the Portfolio Mobile Project
 
 ## 🛠 Built With <a name="built-with"></a>
 
