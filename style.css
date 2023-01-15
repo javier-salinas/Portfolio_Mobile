@@ -159,7 +159,6 @@ nav {
 }
 
 .work-container > ul > li > p {
-  /* line-height: 1; */
   padding: 1.2rem 0;
   margin-top: 15px;
   margin-right: 40px;
@@ -264,8 +263,6 @@ a.btn-two {
   margin-bottom: 30px;
 }
 
-/* ------------------ */
-
 .section-about {
   background-color: white;
   padding-bottom: 70px;
@@ -296,14 +293,19 @@ a.btn-two {
   color: #000;
 }
 
-.languages_list li a {
-  display: block;
-}
-
-.stacks li:hover .languages_list {
-  display: block;
-}
-
 hr {
   background: #ccc;
+}
+
+.about_rotate_arrow {
+  transform: rotate(90deg);
+}
+
+.about__categori {
+  width: 300px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 23px 40px 23px 0;
+  cursor: pointer;
 }
